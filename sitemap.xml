@@ -9,14 +9,21 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/06/25/about/about/</loc>
+    <loc>http://example.com/2021/06/26/xixi/index/</loc>
     
-    <lastmod>2021-06-25</lastmod>
+    <lastmod>2021-06-26</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/06/25/haha/</loc>
+    <loc>http://example.com/2021/06/26/hahahaha/index/</loc>
+    
+    <lastmod>2021-06-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/06/25/about/about/</loc>
     
     <lastmod>2021-06-25</lastmod>
     
